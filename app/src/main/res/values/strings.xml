@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="api_key">AIzaSyC6WyuGJ0xBH76DLpTNVBjAi_fKRME0Xpc</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
